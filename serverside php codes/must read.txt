@@ -1,0 +1,4 @@
+these codes should be uploaded in the server side of the database.
+it consist of two php files :
+one for the registration of the user
+and next for the login of the user
